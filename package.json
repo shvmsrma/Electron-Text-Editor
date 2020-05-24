@@ -1,0 +1,22 @@
+{
+  "name": "electron-text-editor",
+  "version": "1.0.0",
+  "description": "An Electron.js based Simple Text Editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shvmsrma/Electron-Text-Editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shvmsrma/Electron-Text-Editor/issues"
+  },
+  "homepage": "https://github.com/shvmsrma/Electron-Text-Editor#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
