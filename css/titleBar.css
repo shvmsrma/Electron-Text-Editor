@@ -21,7 +21,6 @@ html{
     padding: 10px;
     height: auto;
     display: inline-block;
-    grid-template-rows: auto 1fr;
     font-family: montserrat;
 }
 
