@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shvmsrma/Electron-Text-Editor#readme",
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^9.4.0"
   }
 }
